@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nikhil1795/react-to-do-list/static/css/main.3ea8e575.css",
+    "main.js": "/Nikhil1795/react-to-do-list/static/js/main.d8aa15a9.js",
+    "index.html": "/Nikhil1795/react-to-do-list/index.html",
+    "main.3ea8e575.css.map": "/Nikhil1795/react-to-do-list/static/css/main.3ea8e575.css.map",
+    "main.d8aa15a9.js.map": "/Nikhil1795/react-to-do-list/static/js/main.d8aa15a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea8e575.css",
+    "static/js/main.d8aa15a9.js"
+  ]
+}
